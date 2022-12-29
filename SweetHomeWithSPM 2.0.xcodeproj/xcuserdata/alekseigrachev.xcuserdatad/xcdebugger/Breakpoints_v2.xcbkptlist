@@ -1,0 +1,1142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6DB5B19A-A46B-4F01-9CFC-011C742D6146"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "10A5ED48-0F3F-40AD-834A-30D4C27A2389"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/Registration/RegistrationPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "isPressedSaveButton()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BCC7DA5B-2921-4EBB-821A-C04F6804E613"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/Extentions/Extension CoreDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "getPinMaker()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "045E30FD-56C1-4E1F-B82E-A3786D265BCF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/Extentions/Extension CoreDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "getCountry(country:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "52CAB4BD-A086-4F91-ADA3-B558C337FA03"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/Extentions/Extension CoreDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "getCity()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "55043987-4528-4E1D-99E5-875A44E6A786"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/Extentions/Extension CoreDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "getCity()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6A85B6D2-C0CE-4577-901C-1DDB03E024BE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/Extentions/Extension CoreDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "getCountry(country:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6A85B6D2-C0CE-4577-901C-1DDB03E024BE - 12a235b20cf9f879"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SweetHomeSPM.CoreDataManager.getCountry(country: Swift.Optional&lt;Swift.String&gt;) -&gt; Swift.Result&lt;Swift.Array&lt;SweetHomeSPM.CountryMaker&gt;, SweetHomeSPM.Errors&gt;"
+                  moduleName = "SweetHomeWithSPM 2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alekseigrachev/Documents/Swift/Projects/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5/%D0%A1%D1%84%D0%B5%D1%80%D0%B0/SweetHome%202.0/SweetHomeSPM/Sources/SweetHomeSPM/Extentions/Extension%20CoreDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "6A85B6D2-C0CE-4577-901C-1DDB03E024BE - 12a235b20cf9f879"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SweetHomeSPM.CoreDataManager.getCountry(country: Swift.Optional&lt;Swift.String&gt;) -&gt; Swift.Result&lt;Swift.Array&lt;SweetHomeSPM.CountryMaker&gt;, SweetHomeSPM.Errors&gt;"
+                  moduleName = "SweetHomeWithSPM 2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alekseigrachev/Documents/Swift/Projects/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5/%D0%A1%D1%84%D0%B5%D1%80%D0%B0/SweetHome%202.0/SweetHomeSPM/Sources/SweetHomeSPM/Extentions/Extension%20CoreDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "295A8345-3D1A-48CF-8514-FD1C2EF5DC8A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/Extentions/Extension CoreDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "getCountry(country:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7C4DD702-0B2D-43D4-BDCA-6443E02B36BE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/Registration/RegistrationInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "148"
+            endingLineNumber = "148"
+            landmarkName = "RegistrationInteractor"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "842CE825-3D5E-4E4A-AB3E-0411E4AF9E0B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/Registration/RegistrationInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "saveDataNewMaker(surnameMaker:nameMaker:phoneNumberMaker:emailMaker:passwordMaker:urlImageMaker:touchCoordinateMaker:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9A826587-1E1A-431A-94B4-4C17E9CEFDFB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/Registration/RegistrationPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "197"
+            endingLineNumber = "197"
+            landmarkName = "fetchedMakerData(maker:error:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9A826587-1E1A-431A-94B4-4C17E9CEFDFB - 892b1cb68f4a50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SweetHomeSPM.RegistrationPresenter.fetchedMakerData(maker: Swift.Optional&lt;SweetHomeSPM.MakerAnotation&gt;, error: Swift.Optional&lt;SweetHomeSPM.Errors&gt;) -&gt; ()"
+                  moduleName = "SweetHomeWithSPM 2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alekseigrachev/Documents/Swift/Projects/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5/%D0%A1%D1%84%D0%B5%D1%80%D0%B0/SweetHome%202.0/SweetHomeSPM/Sources/SweetHomeSPM/Registration/RegistrationPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "175"
+                  endingLineNumber = "175"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "9A826587-1E1A-431A-94B4-4C17E9CEFDFB - 892b1cb68f4a50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SweetHomeSPM.RegistrationPresenter.fetchedMakerData(maker: Swift.Optional&lt;SweetHomeSPM.MakerAnotation&gt;, error: Swift.Optional&lt;SweetHomeSPM.Errors&gt;) -&gt; ()"
+                  moduleName = "SweetHomeWithSPM 2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alekseigrachev/Documents/Swift/Projects/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5/%D0%A1%D1%84%D0%B5%D1%80%D0%B0/SweetHome%202.0/SweetHomeSPM/Sources/SweetHomeSPM/Registration/RegistrationPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "175"
+                  endingLineNumber = "175"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "91E53195-C86F-474D-9023-80FA3BF7CA93"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/Registration/RegistrationInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "saveDataNewMaker(surnameMaker:nameMaker:phoneNumberMaker:emailMaker:passwordMaker:urlImageMaker:touchCoordinateMaker:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "91E53195-C86F-474D-9023-80FA3BF7CA93 - 8589d2030a8131de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SweetHomeSPM.RegistrationInteractor.saveDataNewMaker(surnameMaker: Swift.String, nameMaker: Swift.String, phoneNumberMaker: Swift.String, emailMaker: Swift.String, passwordMaker: Swift.String, urlImageMaker: Swift.Optional&lt;Foundation.URL&gt;, touchCoordinateMaker: __C.CLLocationCoordinate2D) -&gt; ()"
+                  moduleName = "SweetHomeWithSPM 2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alekseigrachev/Documents/Swift/Projects/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5/%D0%A1%D1%84%D0%B5%D1%80%D0%B0/SweetHome%202.0/SweetHomeSPM/Sources/SweetHomeSPM/Registration/RegistrationInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "3340">
+               </Location>
+               <Location
+                  uuid = "91E53195-C86F-474D-9023-80FA3BF7CA93 - 8589d2030a8131de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SweetHomeSPM.RegistrationInteractor.saveDataNewMaker(surnameMaker: Swift.String, nameMaker: Swift.String, phoneNumberMaker: Swift.String, emailMaker: Swift.String, passwordMaker: Swift.String, urlImageMaker: Swift.Optional&lt;Foundation.URL&gt;, touchCoordinateMaker: __C.CLLocationCoordinate2D) -&gt; ()"
+                  moduleName = "SweetHomeWithSPM 2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alekseigrachev/Documents/Swift/Projects/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5/%D0%A1%D1%84%D0%B5%D1%80%D0%B0/SweetHome%202.0/SweetHomeSPM/Sources/SweetHomeSPM/Registration/RegistrationInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "3400">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "25565550-8B9E-448A-AC7B-8DB1652295E4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/Registration/RegistrationPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "215"
+            endingLineNumber = "215"
+            landmarkName = "fetchedMakerData(maker:error:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DD5160EA-296F-4F28-9985-87DE3DB4710E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/MapModule/MapPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "159"
+            endingLineNumber = "159"
+            landmarkName = "isClickedFilterCategoriesButton()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF72CFDC-1A1B-4CF8-B084-B6B2EE350252"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/MapModule/MapViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "342"
+            endingLineNumber = "342"
+            landmarkName = "showDate(pinMakers:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CE35FECD-02F7-4DDC-B68F-250164096E46"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/Extentions/Extension CoreDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "184"
+            endingLineNumber = "184"
+            landmarkName = "getCityWithName(cityName:country:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "39A7A6D5-7079-4BF7-85D4-700E02B07275"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/Extentions/Extension CoreDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "getPinMaker()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "746E7E7D-F3A9-435A-AA9D-A1CD09C16AC4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/Extentions/Extension CoreDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "getPinMaker()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "05A9B4A6-0E54-4851-BE9C-9BA35472497E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/Registration/RegistrationViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "438"
+            endingLineNumber = "438"
+            landmarkName = "updateMenuTableView(newMakerIsSaved:categoriesIsSaved:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "05A9B4A6-0E54-4851-BE9C-9BA35472497E - fe7a242ba7c1160a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SweetHomeSPM.RegistrationViewController.updateMenuTableView(newMakerIsSaved: Swift.Optional&lt;Swift.Bool&gt;, categoriesIsSaved: Swift.Optional&lt;Swift.Bool&gt;) -&gt; ()"
+                  moduleName = "SweetHomeWithSPM 2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alekseigrachev/Documents/Swift/Projects/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5/%D0%A1%D1%84%D0%B5%D1%80%D0%B0/SweetHome%202.0/SweetHomeSPM/Sources/SweetHomeSPM/Registration/RegistrationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "438"
+                  endingLineNumber = "438"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  uuid = "05A9B4A6-0E54-4851-BE9C-9BA35472497E - fe7a242ba7c1160a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SweetHomeSPM.RegistrationViewController.updateMenuTableView(newMakerIsSaved: Swift.Optional&lt;Swift.Bool&gt;, categoriesIsSaved: Swift.Optional&lt;Swift.Bool&gt;) -&gt; ()"
+                  moduleName = "SweetHomeWithSPM 2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alekseigrachev/Documents/Swift/Projects/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5/%D0%A1%D1%84%D0%B5%D1%80%D0%B0/SweetHome%202.0/SweetHomeSPM/Sources/SweetHomeSPM/Registration/RegistrationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "438"
+                  endingLineNumber = "438"
+                  offsetFromSymbolStart = "304">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36BB68F3-91D8-423B-A6BD-9D9CF5A9BFAE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/RegistrationModule/RegistrationViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "450"
+            endingLineNumber = "450"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "73F5C0B5-4878-4EFD-9301-3005130B0561"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/RegistrationModule/RegistrationViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "447"
+            endingLineNumber = "447"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "39D04AE0-3729-4A82-93FB-F073F3C996EE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/GetProductCategoriesModule/GetProductCategoriesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "32639998-1261-4BFF-AEFE-B533E37CFED9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/GetProductCategoriesModule/GetProductCategoriesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "137"
+            endingLineNumber = "137">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B55C6972-642B-483C-8A7C-47B6B5919546"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/GetProductCategoriesModule/GetProductCategoriesPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "fetchedProductCategoriesData(productCategories:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AD622820-6C72-4AF4-9762-38A8048EA8DF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/GetProductCategoriesModule/GetProductCategoriesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "796BC393-E19E-4CBE-A626-D6B8E3B2E73A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/GetProductCategoriesModule/GetProductCategoriesPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "fetchedProductCategoriesMakerData(productCategoriesMakers:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "796BC393-E19E-4CBE-A626-D6B8E3B2E73A - a3fbcbad3bb16370"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SweetHomeSPM.GetProductCategoriesPresenter.fetchedProductCategoriesMakerData(productCategoriesMakers: Swift.Optional&lt;Swift.Array&lt;SweetHomeSPM.ProductCategoryMaker&gt;&gt;, error: Swift.Optional&lt;SweetHomeSPM.Errors&gt;) -&gt; ()"
+                  moduleName = "SweetHomeWithSPM 2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alekseigrachev/Documents/Swift/Projects/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5/%D0%A1%D1%84%D0%B5%D1%80%D0%B0/SweetHome%202.0/SweetHomeSPM/Sources/SweetHomeSPM/GetProductCategoriesModule/GetProductCategoriesPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "796BC393-E19E-4CBE-A626-D6B8E3B2E73A - a3fbcbad3bb16370"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SweetHomeSPM.GetProductCategoriesPresenter.fetchedProductCategoriesMakerData(productCategoriesMakers: Swift.Optional&lt;Swift.Array&lt;SweetHomeSPM.ProductCategoryMaker&gt;&gt;, error: Swift.Optional&lt;SweetHomeSPM.Errors&gt;) -&gt; ()"
+                  moduleName = "SweetHomeWithSPM 2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alekseigrachev/Documents/Swift/Projects/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5/%D0%A1%D1%84%D0%B5%D1%80%D0%B0/SweetHome%202.0/SweetHomeSPM/Sources/SweetHomeSPM/GetProductCategoriesModule/GetProductCategoriesPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6AA0DF12-03CE-460B-8A2E-B1CAD2633082"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/GetProductCategoriesModule/GetProductCategoriesInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "GetProductCategoriesInteractor"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6D095ED2-64E5-4E7C-89F6-D5110BCCAC8C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/GetProductCategoriesModule/GetProductCategoriesBuilder.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "build(phoneMaker:emailMaker:delegate:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "28928B5D-D743-4F42-87E7-1659BE8EC73E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/RegistrationModule/RegistrationInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "saveDataNewMaker(surnameMaker:nameMaker:phoneNumberMaker:emailMaker:passwordMaker:pathImageMaker:touchCoordinateMaker:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F977ECFA-3107-42B0-A067-3B13CAAB4E7A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/RegistrationModule/RegistrationInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "saveDataNewMaker(surnameMaker:nameMaker:phoneNumberMaker:emailMaker:passwordMaker:pathImageMaker:touchCoordinateMaker:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F977ECFA-3107-42B0-A067-3B13CAAB4E7A - c9e3140cff249005"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SweetHomeSPM.RegistrationInteractor.saveDataNewMaker(surnameMaker: Swift.String, nameMaker: Swift.String, phoneNumberMaker: Swift.String, emailMaker: Swift.String, passwordMaker: Swift.String, urlImageMaker: Swift.Optional&lt;Foundation.URL&gt;, touchCoordinateMaker: __C.CLLocationCoordinate2D) -&gt; ()"
+                  moduleName = "SweetHomeWithSPM 2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alekseigrachev/Documents/Swift/Projects/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5/%D0%A1%D1%84%D0%B5%D1%80%D0%B0/SweetHome%202.0/SweetHomeSPM/Sources/SweetHomeSPM/RegistrationModule/RegistrationInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "392">
+               </Location>
+               <Location
+                  uuid = "F977ECFA-3107-42B0-A067-3B13CAAB4E7A - 26cede66b61f99b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SweetHomeSPM.RegistrationInteractor.saveDataNewMaker(surnameMaker: Swift.String, nameMaker: Swift.String, phoneNumberMaker: Swift.String, emailMaker: Swift.String, passwordMaker: Swift.String, urlImageMaker: Swift.Optional&lt;Foundation.URL&gt;, touchCoordinateMaker: __C.CLLocationCoordinate2D) -&gt; ()"
+                  moduleName = "SweetHomeWithSPM 2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alekseigrachev/Documents/Swift/Projects/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5/%D0%A1%D1%84%D0%B5%D1%80%D0%B0/SweetHome%202.0/SweetHomeSPM/Sources/SweetHomeSPM/RegistrationModule/RegistrationInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "508">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7778372C-41DF-4891-8675-E7FEA76FB6D7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/RegistrationModule/RegistrationInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "saveDataNewMaker(surnameMaker:nameMaker:phoneNumberMaker:emailMaker:passwordMaker:pathImageMaker:touchCoordinateMaker:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7778372C-41DF-4891-8675-E7FEA76FB6D7 - 26cede66b61f9cb5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SweetHomeSPM.RegistrationInteractor.saveDataNewMaker(surnameMaker: Swift.String, nameMaker: Swift.String, phoneNumberMaker: Swift.String, emailMaker: Swift.String, passwordMaker: Swift.String, urlImageMaker: Swift.Optional&lt;Foundation.URL&gt;, touchCoordinateMaker: __C.CLLocationCoordinate2D) -&gt; ()"
+                  moduleName = "SweetHomeWithSPM 2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alekseigrachev/Documents/Swift/Projects/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5/%D0%A1%D1%84%D0%B5%D1%80%D0%B0/SweetHome%202.0/SweetHomeSPM/Sources/SweetHomeSPM/RegistrationModule/RegistrationInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "1900">
+               </Location>
+               <Location
+                  uuid = "7778372C-41DF-4891-8675-E7FEA76FB6D7 - 26cede66b61f9cb5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SweetHomeSPM.RegistrationInteractor.saveDataNewMaker(surnameMaker: Swift.String, nameMaker: Swift.String, phoneNumberMaker: Swift.String, emailMaker: Swift.String, passwordMaker: Swift.String, urlImageMaker: Swift.Optional&lt;Foundation.URL&gt;, touchCoordinateMaker: __C.CLLocationCoordinate2D) -&gt; ()"
+                  moduleName = "SweetHomeWithSPM 2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alekseigrachev/Documents/Swift/Projects/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5/%D0%A1%D1%84%D0%B5%D1%80%D0%B0/SweetHome%202.0/SweetHomeSPM/Sources/SweetHomeSPM/RegistrationModule/RegistrationInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "1948">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "373F6199-3959-460D-AD99-8755356DDEFB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/RegistrationModule/RegistrationInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "124"
+            endingLineNumber = "124"
+            landmarkName = "createNewMaker()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A9FD759-4954-4AD2-A9F1-18B9ED220E2B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/RegistrationModule/RegistrationInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "saveDataNewMaker(surnameMaker:nameMaker:phoneNumberMaker:emailMaker:passwordMaker:pathImageMaker:touchCoordinateMaker:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA22C5B9-FAF9-4241-B447-AD9DF99FF18E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/RegistrationModule/RegistrationInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "saveDataNewMaker(surnameMaker:nameMaker:phoneNumberMaker:emailMaker:passwordMaker:pathImageMaker:touchCoordinateMaker:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8FACCFD3-723D-4F29-9843-1C9AF6F277F7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/GetProductCategoriesModule/GetProductCategoriesPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "makeCategoriesMaker(productCategoriesMaker:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8084C158-529B-4A48-BF60-AF25CF778B70"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/GetProductCategoriesModule/GetProductCategoriesPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "124"
+            endingLineNumber = "124"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "8084C158-529B-4A48-BF60-AF25CF778B70 - cd7dda33813710a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SweetHomeSPM.GetProductCategoriesPresenter.makeCategoriesMaker(productCategoriesMaker: Swift.Array&lt;SweetHomeSPM.ProductCategoryMaker&gt;) -&gt; Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "SweetHomeWithSPM 2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alekseigrachev/Documents/Swift/Projects/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5/%D0%A1%D1%84%D0%B5%D1%80%D0%B0/SweetHome%202.0/SweetHomeSPM/Sources/SweetHomeSPM/GetProductCategoriesModule/GetProductCategoriesPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "8084C158-529B-4A48-BF60-AF25CF778B70 - aaf957e30e8fb0b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SweetHomeSPM.ProductCategoryMaker) -&gt; Swift.String in SweetHomeSPM.GetProductCategoriesPresenter.makeCategoriesMaker(productCategoriesMaker: Swift.Array&lt;SweetHomeSPM.ProductCategoryMaker&gt;) -&gt; Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "SweetHomeWithSPM 2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alekseigrachev/Documents/Swift/Projects/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5/%D0%A1%D1%84%D0%B5%D1%80%D0%B0/SweetHome%202.0/SweetHomeSPM/Sources/SweetHomeSPM/GetProductCategoriesModule/GetProductCategoriesPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "797C6F4F-57F7-415F-8B77-E088DACA203F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/Extentions/Extension CoreDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "220"
+            endingLineNumber = "220"
+            landmarkName = "getProductCategoriesMakers(categoryName:maker:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1179A0E7-47F3-4110-9FAF-DAF85936A84F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/GetProductCategoriesModule/GetProductCategoriesPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "GetProductCategoriesPresenter"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E18EE884-5816-4334-8F30-2A187269E044"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/GetProductCategoriesModule/GetProductCategoriesPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "init(interactor:router:phoneMaker:emailMaker:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "592FD2BA-DCD2-4E90-BFE8-8C3EB3EF4B4B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/Extentions/Extension CoreDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "162"
+            endingLineNumber = "162"
+            landmarkName = "getMakerWithCoordinate(latitude:long:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AB65B58D-4F7E-4F51-9CCC-376259C5966E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/RegistrationModule/RegistrationPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "199"
+            endingLineNumber = "199"
+            landmarkName = "isTappedMakerImage(info:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C725C2D-E461-4706-A662-AA7C156EC67D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/RegistrationModule/RegistrationPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "196"
+            endingLineNumber = "196"
+            landmarkName = "isTappedMakerImage(info:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E721909-03E9-42C5-A7CE-CBFA633F4B15"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/RegistrationModule/RegistrationPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "120"
+            endingLineNumber = "120"
+            landmarkName = "isPressedSaveButton()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C847332F-7462-44B9-8D87-741B810C72F0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/RegistrationModule/RegistrationPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "248"
+            endingLineNumber = "248"
+            landmarkName = "RegistrationPresenter"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1EEEEECD-907C-49EE-BCAF-B76E5B43A048"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/RegistrationModule/RegistrationInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "159"
+            endingLineNumber = "159"
+            landmarkName = "editDataMaker(surnameMaker:nameMaker:phoneNumberMaker:emailMaker:passwordMaker:pathImageMaker:touchCoordinateMaker:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "51EF950C-A238-488D-BB6F-117B509AF4C9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/Extentions/Extension CoreDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "getPinMaker()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4FDCDC23-3C79-4C1A-915E-BC6B081802A2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/RegistrationModule/RegistrationInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "saveDataNewMaker(surnameMaker:nameMaker:phoneNumberMaker:emailMaker:passwordMaker:pathImageMaker:touchCoordinateMaker:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5FEB1117-0821-49BC-A8A4-44A424D7FC2A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/RegistrationModule/RegistrationPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "getMakerAnotation()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5FEB1117-0821-49BC-A8A4-44A424D7FC2A - 8887de772a7852a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SweetHomeSPM.RegistrationPresenter.getMakerAnotation() -&gt; ()"
+                  moduleName = "SweetHomeWithSPM 2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alekseigrachev/Documents/Swift/Projects/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5/%D0%A1%D1%84%D0%B5%D1%80%D0%B0/SweetHome%202.0/SweetHomeSPM/Sources/SweetHomeSPM/RegistrationModule/RegistrationPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "5FEB1117-0821-49BC-A8A4-44A424D7FC2A - 8887de772a7852a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SweetHomeSPM.RegistrationPresenter.getMakerAnotation() -&gt; ()"
+                  moduleName = "SweetHomeWithSPM 2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alekseigrachev/Documents/Swift/Projects/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5/%D0%A1%D1%84%D0%B5%D1%80%D0%B0/SweetHome%202.0/SweetHomeSPM/Sources/SweetHomeSPM/RegistrationModule/RegistrationPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BA207641-1E07-4996-96DD-982CB23A3A42"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/RegistrationModule/RegistrationInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "171"
+            endingLineNumber = "171"
+            landmarkName = "editDataMaker(surnameMaker:nameMaker:phoneNumberMaker:emailMaker:passwordMaker:pathImageMaker:touchCoordinateMaker:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "49DCA388-C1C0-4CC7-B2DD-9B2A462F0771"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/RegistrationModule/RegistrationPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "250"
+            endingLineNumber = "250"
+            landmarkName = "fetchedMakerData(maker:error:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "49DCA388-C1C0-4CC7-B2DD-9B2A462F0771 - 79cd054efce30ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SweetHomeSPM.RegistrationPresenter.fetchedMakerData(maker: Swift.Optional&lt;SweetHomeSPM.MakerAnotation&gt;, error: Swift.Optional&lt;SweetHomeSPM.Errors&gt;) -&gt; ()"
+                  moduleName = "SweetHomeWithSPM 2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alekseigrachev/Documents/Swift/Projects/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5/%D0%A1%D1%84%D0%B5%D1%80%D0%B0/SweetHome%202.0/SweetHomeSPM/Sources/SweetHomeSPM/RegistrationModule/RegistrationPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "279"
+                  endingLineNumber = "279"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "49DCA388-C1C0-4CC7-B2DD-9B2A462F0771 - 79cd054efce30ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SweetHomeSPM.RegistrationPresenter.fetchedMakerData(maker: Swift.Optional&lt;SweetHomeSPM.MakerAnotation&gt;, error: Swift.Optional&lt;SweetHomeSPM.Errors&gt;) -&gt; ()"
+                  moduleName = "SweetHomeWithSPM 2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alekseigrachev/Documents/Swift/Projects/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5/%D0%A1%D1%84%D0%B5%D1%80%D0%B0/SweetHome%202.0/SweetHomeSPM/Sources/SweetHomeSPM/RegistrationModule/RegistrationPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "279"
+                  endingLineNumber = "279"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "39806D53-7612-4EEB-90B3-F21C8C5779CC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/MapModule/MapViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "255"
+            endingLineNumber = "255"
+            landmarkName = "setupListOfCategoryLabel()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "31BFCFD6-B5EC-4427-97D2-03DBED9C07FF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../SweetHomeSPM/Sources/SweetHomeSPM/MapModule/MapViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "347"
+            endingLineNumber = "347"
+            landmarkName = "MapViewController"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
