@@ -1138,5 +1138,21 @@
             landmarkType = "21">
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "34A824DF-4685-4ABF-8D47-19CB9A3FBE6A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../../../../../../Library/Developer/Xcode/DerivedData/SweetHomeWithSPM_2.0-ffcycvwiyckuegbxltrvvxsuhkkn/SourcePackages/checkouts/SweetHomePackage/Sources/SweetHomeSPM/RegistrationModule/RegistrationInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "150"
+            endingLineNumber = "150"
+            landmarkName = "editDataMaker(surnameMaker:nameMaker:phoneNumberMaker:emailMaker:passwordMaker:pathImageMaker:touchCoordinateMaker:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>
